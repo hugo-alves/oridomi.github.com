@@ -8,11 +8,11 @@ html {
 
 .paper {
   background-color: #FCF5C7;
-  width: 1024px;
+  width: 3456px;
   padding: 4em 0;
-  margin: 10%;
+  margin: 3%;
   position: relative;
-  height: 686px;
+  height: 1728px;
   border: 2px solid #CCC6A1;
 }
 .paper div {
@@ -30,7 +30,7 @@ html {
   left: 0;
   right: 0;
   bottom: 0;
-  background: url("http://i.imgur.com/bjTWYdf.jpg");
+  background: url("http://i.imgur.com/mcP4J9T.jpg");
   opacity: 0.8;
   z-index: 9999;
 }
